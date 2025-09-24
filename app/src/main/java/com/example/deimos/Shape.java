@@ -3,5 +3,5 @@ package com.example.deimos;
 public abstract class Shape {
     public Integer x;
     public Integer y;
-    public String color =  "Black";
+    public String color = "black";
 }
